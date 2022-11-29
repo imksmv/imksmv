@@ -1,4 +1,8 @@
-# 🔥 Illia Maksymov
+# 🔥 [Illia Maksymov](https://maksymov.me/)
+
+#### I'm an enthusiastic React Developer from Ukraine, based in Ireland. 🇺🇦 🇮🇪
+
+---
 
 ### 🧰 Languages and Tools
 
