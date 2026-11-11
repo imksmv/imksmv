@@ -5,6 +5,6 @@
   </tr>
   <tr>
     <td><b><a href="https://forgr.ai">FORGR</a></b></td>
-    <td>AI video studio for narrative creators. Keeps one character consistent across shots, with Veo 3.1, Kling v3 and 25+ other models.</td>
+    <td>AI video studio for narrative creators. Keeps one character consistent across shots, with Seedance 2.5, Kling v3 and 25+ other models.</td>
   </tr>
 </table>
