@@ -1,8 +1,18 @@
-### Hi, I'm Illia 👋
+# Illia Maksymov
 
-Full-stack engineer building AI products. Most of my work lives in private repos. Here's what's live:
+Full-stack engineer. I build AI products for content creators.
 
-- **[forgr.ai](https://forgr.ai)**: an AI video studio for narrative creators. It keeps one character consistent across every shot, using Veo 3.1, Kling v3 and 25+ other models.
-- **[onlynudes.ai](https://onlynudes.ai)**: a content studio for Fanvue creators. From one reference image and a line of text, it makes a feed's worth of photos and clips.
+## Products
 
-Happy to walk through the code behind either one. Just reach out.
+| | |
+| --- | --- |
+| **[FORGR](https://forgr.ai)** | AI video studio for narrative creators. Keeps one character consistent across shots, with Veo 3.1, Kling v3 and 25+ other models. |
+| **[OnlyNudes](https://onlynudes.ai)** | Content studio for Fanvue creators. Turns one reference image and a text prompt into a feed of photos and clips. |
+
+## Stack
+
+TypeScript · React · Next.js · Tailwind CSS · Python · Docker · Cloudflare
+
+---
+
+My production code lives in private repositories. I can walk you through it on request.
