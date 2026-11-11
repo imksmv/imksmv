@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><b><a href="https://onlynudes.ai">OnlyNudes</a></b></td>
-    <td>Content studio for Fanvue creators. Turns one reference image and a text prompt into a feed of photos and clips.</td>
+    <td>Content studio for Fanvue creators. Create a character once, then generate SFW and NSFW images and clips of that character.</td>
   </tr>
   <tr>
     <td><b><a href="https://forgr.ai">FORGR</a></b></td>
